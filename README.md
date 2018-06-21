@@ -3,12 +3,12 @@
 ## 使用方法
 - 安装
 ```bash
-composer require caohui123/yii2-ajaxmodal:dev-master
+composer require caohui123/yii2-ajaxmodal: ~1.0.0
 ```
 
 ```json
 "require-dev": {
-        "caohui123/yii2-ajaxmodal": "dev-master"
+        "caohui123/yii2-ajaxmodal": "~1.0.0"
  },
 ```
 - 配置
