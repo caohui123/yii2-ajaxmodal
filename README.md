@@ -3,7 +3,7 @@
 ## 使用方法
 - 安装
 ```bash
-composer require caohui123/yii2-ajaxmodal: ~1.0.0
+composer require caohui123/yii2-ajaxmodal:~1.0.0
 ```
 
 ```json
